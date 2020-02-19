@@ -1,0 +1,11 @@
+C:\Users\Lenovo T410\Desktop\escuela\progra\personas\bin\Debug\netcoreapp3.1\personas.exe
+C:\Users\Lenovo T410\Desktop\escuela\progra\personas\bin\Debug\netcoreapp3.1\personas.deps.json
+C:\Users\Lenovo T410\Desktop\escuela\progra\personas\bin\Debug\netcoreapp3.1\personas.runtimeconfig.json
+C:\Users\Lenovo T410\Desktop\escuela\progra\personas\bin\Debug\netcoreapp3.1\personas.runtimeconfig.dev.json
+C:\Users\Lenovo T410\Desktop\escuela\progra\personas\bin\Debug\netcoreapp3.1\personas.dll
+C:\Users\Lenovo T410\Desktop\escuela\progra\personas\bin\Debug\netcoreapp3.1\personas.pdb
+C:\Users\Lenovo T410\Desktop\escuela\progra\personas\obj\Debug\netcoreapp3.1\personas.csprojAssemblyReference.cache
+C:\Users\Lenovo T410\Desktop\escuela\progra\personas\obj\Debug\netcoreapp3.1\personas.AssemblyInfoInputs.cache
+C:\Users\Lenovo T410\Desktop\escuela\progra\personas\obj\Debug\netcoreapp3.1\personas.AssemblyInfo.cs
+C:\Users\Lenovo T410\Desktop\escuela\progra\personas\obj\Debug\netcoreapp3.1\personas.dll
+C:\Users\Lenovo T410\Desktop\escuela\progra\personas\obj\Debug\netcoreapp3.1\personas.pdb
